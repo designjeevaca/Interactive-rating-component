@@ -4,7 +4,7 @@ html {
   scroll-behavior: smooth;
 }
 @media (min-width: 48rem) {
-  html html {
+  html {
     font-size: 75%;
   }
 }
