@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digitallimat | Interactive rating component</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <script src="./assets/js/script.js" defer></script>
+</head>
+
+<body>
+  <main class="main">
+    <article class="rating" id="rating">
+      <img class="rating__icon" src="./assets/images/icon-star.svg" alt="Star Icon">
+      <h1 class="rating__title">
+        How did we do?
+      </h1>
+      <p class="rating__description">
+        Please let us know how we did with your support request. All feedback is appreciated to help us improve our
+        offering!
+      </p>
+      <div class="rating__choices">
+        <button class="rating__choice">1</button>
+        <button class="rating__choice">2</button>
+        <button class="rating__choice">3</button>
+        <button class="rating__choice">4</button>
+        <button class="rating__choice">5</button>
+      </div>
+      <button class="rating__submit" id="submit">Submit</button>
+    </article>
+    <article class="thankyou thankyou__hidden" id="thankyou">
+      <img src="./assets/images/illustration-thank-you.svg" alt="Thank you" class="thankyou__image">
+      <p class="thankyou__message">You selected <span id="user-rate">5</span> out of 5</p>
+      <h2 class="thankyou__title">Thank you!</h2>
+      <p class="thankyou__description"> We appreciate you taking the time to give a rating. If you ever need more
+        support,
+        don't hesitate to get in touch!</p>
+    </article>
+  </main>
+
+  <footer class="attribution">
+    <p>
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by
+      <a href="http://digitallimat.com">Jeeva</a>.
+    </p>
+  </footer>
+
+</body>
+
+</html>
