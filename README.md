@@ -25,8 +25,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/digitallimat)
-- Live Site URL: [Github](https://digitallimat.github.io/Interactive-rating-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/digitaltamildev)
+- Live Site URL: [Github](https://digitaltamildev.github.io/Interactive-rating-component/)
 
 ## My process
 
@@ -51,6 +51,6 @@ console.log("Need to spend more time on learnig JS.");
 
 ## Author
 
-- Website - [Jeeva](https://www.digitallimat.com)
-- Frontend Mentor - [@digitallimat](https://www.frontendmentor.io/profile/digitallimat)
-- Twitter - [@digitallimat](https://www.twitter.com/digitallimat)
+- Digitaltamil.dev - [digitaltamildev](https://digitaltamil.dev)
+- Frontend Mentor - [@digitaltamildev](https://www.frontendmentor.io/profile/digitaltamildev)
+- Twitter - [@digitaltamildev](https://www.twitter.com/digitaltamildev)
