@@ -25,7 +25,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/digitaltamildev)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/jeevatek)
 - Live Site URL: [Github](https://jeevatek.github.io/Interactive-rating-component/)
 
 ## My process
