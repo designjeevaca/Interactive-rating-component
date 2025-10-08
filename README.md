@@ -51,6 +51,4 @@ console.log("Need to spend more time on learnig JS.");
 
 ## Author
 
-- jeevatek - [jeevatek](https://tek.jeeva.ca)
-- Frontend Mentor - [@jeevatek](https://www.frontendmentor.io/profile/jeevatek)
-- Twitter - [@jeevatek](https://www.twitter.com/jeevatek)
+- Frontend Mentor - [@designjeevaca](https://www.frontendmentor.io/profile/designjeevaca)
